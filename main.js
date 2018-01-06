@@ -1,4 +1,4 @@
-var moderJs = {
+var modernJs = {
     registerContent : function (callback, parent, style) {
         callback();
         //parent.appendChild(callback());
